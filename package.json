@@ -1,0 +1,27 @@
+{
+  "name": "visual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto14118927/visual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberto14118927/visual/issues"
+  },
+  "homepage": "https://github.com/roberto14118927/visual#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "electron": "^13.1.6",
+    "mysql": "^2.18.1",
+    "node-localstorage": "^2.2.1",
+    "save": "^2.4.0"
+  }
+}
